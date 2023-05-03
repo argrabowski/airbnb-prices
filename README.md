@@ -1,3 +1,5 @@
+# Machine Learning to Predict Airbnb Listing Prices
+
 ## Abstract
 
 This report presents a machine learning project aimed at predicting the price of Airbnb listings in Boston, MA, using a dataset from Inside Airbnb. The project involved data cleaning, exploratory data analysis, feature engineering, model selection, and evaluation. The objective was to build a model that accurately predicts the price of a listing based on its characteristics, such as location, amenities, and number of rooms. Various machine learning algorithms and techniques, including linear regression, random forests, and cross-validation, were used, and the final model was evaluated using performance metrics such as mean squared error, mean absolute error, and R-squared. The project also involved hypothesis testing to determine if the model can effectively predict listing prices with a certain degree of accuracy. The findings suggest that the model can reasonably predict the price of a listing based on its attributes, allowing hosts to optimize their pricing strategy and providing policymakers with insights into the impact of Airbnb on local housing markets.
