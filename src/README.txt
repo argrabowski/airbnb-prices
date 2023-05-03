@@ -2,6 +2,8 @@ I hope this document finds you well. In this project, I have been working on ana
 
 As you review my project, I kindly ask you to take note of the following aspects:
 
+GitHub Pages: Please visit the project's GitHub Pages site at https://argrabowski.github.io/CS_539_Final_Project/ for an overview of the project, including visualizations and analysis.
+
 Data Preprocessing and cleaning: Please review my data cleaning and preprocessing steps to ensure that I have correctly handled missing values, dealt with outliers, and prepared the data for machine learning models.
 
 Exploratory Data Analysis: The project includes exploratory data analysis to gain insights into the dataset and identify patterns or relationships between features. Please evaluate the project based on the quality and relevance of the visualizations and analysis presented.
