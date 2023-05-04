@@ -8,7 +8,7 @@ Data Preprocessing and cleaning: Please review my data cleaning and preprocessin
 
 Exploratory Data Analysis: The project includes exploratory data analysis to gain insights into the dataset and identify patterns or relationships between features. Please evaluate the project based on the quality and relevance of the visualizations and analysis presented.
 
-Feature Engineering: Please review my feature engineering steps, including how I encoded categorical variables using one-hot and ordinal encoders, and how I standardized numerical variables using standard scalar.
+Feature Engineering: Please review my feature engineering steps, including how I encoded categorical variables using one-hot encoding, and how I standardized numerical variables using standard scalar.
 
 Model Selection and Evaluation: Please review my model selection and evaluation steps, including how I split the data into training and testing sets, how I used cross-validation to select the best hyperparameters, and how I evaluated the performance of the models using various metrics such as MSE, MAE, and R-squared.
 
